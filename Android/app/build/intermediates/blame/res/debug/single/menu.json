@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    }
+]

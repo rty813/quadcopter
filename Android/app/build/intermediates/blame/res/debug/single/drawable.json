@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right.png",
+        "source": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left.png",
+        "source": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up.png",
+        "source": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
+        "source": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget.png",
+        "source": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\src\\main\\res\\drawable\\widget.png"
+    }
+]

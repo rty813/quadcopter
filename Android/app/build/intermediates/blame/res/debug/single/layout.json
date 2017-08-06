@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_app_widget.xml",
+        "source": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\src\\main\\res\\layout\\new_app_widget.xml"
+    },
+    {
+        "merged": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "E:\\Robot\\Rescue_Electronic\\Quadcopter\\Android\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    }
+]
